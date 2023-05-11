@@ -8,4 +8,4 @@
 
 test  
 
-![image text](https://github.com/kairaun/Senior-Project/tree/main/pic)  
+![Image text](https://github.com/kairaun/Senior-Project/tree/main/pic)  
