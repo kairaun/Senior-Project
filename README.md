@@ -8,4 +8,4 @@
 
 test  
 
-![image](https://github.com/kairaun/Senior-Project/blob/main/video/hand%20in%20Unity.gif)  
+![image](https://github.com/kairaun/Senior-Project/blob/main/video/hand in Unity.gif)  
