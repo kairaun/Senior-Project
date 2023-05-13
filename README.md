@@ -6,6 +6,6 @@
 
 未完成進度：遊戲場景搭建與音訊結合
 
-test  
+test sample  
 
 ![image](https://github.com/kairaun/Senior-Project/blob/main/pic/hand_in_unity.png)  
