@@ -11,3 +11,7 @@
 test sample  
 
 ![image](https://github.com/kairaun/Senior-Project/blob/main/pic/hand_in_unity.png)  
+
+Main scene (under construction)  
+
+![image](https://github.com/kairaun/Senior-Project/blob/main/pic/doing.png)  
